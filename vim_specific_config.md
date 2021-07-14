@@ -39,3 +39,8 @@ call SetupCommandAlias("grep", "GrepperGrep")
 Using < TAB > to change Grepper tools
 
 
+---
+
+### neovim-remote
+`pip3 install --user --upgrade neovim-remote`
+using nvr to launch neovim-remote
