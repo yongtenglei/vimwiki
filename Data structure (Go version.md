@@ -3,3 +3,4 @@
 [sort](sort)
 [binary Tree](binary Tree)
 [stack](stack)
+[hash](hash)
