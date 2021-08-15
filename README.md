@@ -1,1 +1,1 @@
-learning log of Rey
+learning log of Rey using vimwiki
