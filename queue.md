@@ -110,7 +110,7 @@ func main() {
 
 ```
 
-1. `数组模拟的循环链表， 存储空间为maxSize - 1`
+2. `数组模拟的循环链表， 存储空间为maxSize - 1`
 
 * Full: (rear+1) % maxSize == front
 * Empty: rear == front
