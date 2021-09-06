@@ -1,6 +1,6 @@
-xorg xorg-server xorg-apps xorg-xinit xorg-xsetroot dwm plasma kde-applications feh neovim python python-pip npm nodejs go neofetch screenfetch networkmanager network-manager-applet nm-connection-editor fd the_silver_searcher dwm i3 simplescreenrecorder firefox clang llvm ctags wget ranger st alacritty nano picom-jonaburg-git alsa-utils alsa-plugins
+xorg xorg-server xorg-apps xorg-xinit xorg-xsetroot dwm plasma kde-applications feh neovim python python-pip npm nodejs neofetch screenfetch networkmanager network-manager-applet nm-connection-editor fd the_silver_searcher dwm i3 simplescreenrecorder firefox clang llvm ctags wget ranger st alacritty nano picom-jonaburg-git alsa-utils alsa-plugins
 
-mycli picom fzf xclip light picom-jonaburg-git alsa-utils pamixer xorg-setxkbmap cmus mpc wpa_cli wpa_supplicant calcurse transmission-remote xbacklight connman curl zsh nerd-fonts-fira-code nerd-fonts-fira exa
+mycli fzf xclip light picom-jonaburg-git alsa-utils pamixer xorg-setxkbmap cmus mpc wpa_cli wpa_supplicant calcurse transmission-remote xbacklight connman curl zsh nerd-fonts-fira-code nerd-fonts-fira exa
 
 mpd ncmpcpp deadbeaf-git lxappearance qt5ct xsettingsd kvantum
 
@@ -12,7 +12,13 @@ adobe-source-han-serif-cn-fonts wqy-zenhei
 packagekit-qt5 packagekit appstream-qt appstream          
  gwenview                                                    
 steam    
-rofi
+rofi unarchiver
+
+
+sof-firmware libreoffice-fresh teamviewer yesplaymusic vlc mpv 
 
 pip install pynvim neovim spawn
 sudo npm install neovim
+
+sudo pacman -S tlp
+sudo systemctl enable --now tlp
