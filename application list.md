@@ -2,7 +2,7 @@ xorg xorg-server xorg-apps xorg-xinit xorg-xsetroot dwm plasma kde-applications 
 
 mycli fzf xclip light picom-jonaburg-git alsa-utils pamixer xorg-setxkbmap cmus mpc wpa_cli wpa_supplicant calcurse transmission-remote xbacklight connman curl zsh nerd-fonts-fira-code nerd-fonts-fira exa
 
-mpd ncmpcpp deadbeaf-git lxappearance qt5ct xsettingsd kvantum
+mpd ncmpcpp deadbeef-git lxappearance qt5ct xsettingsd kvantum
 
 ntfs-3g                                                     
 adobe-source-han-serif-cn-fonts wqy-zenhei                   
