@@ -18,7 +18,8 @@ rofi unarchiver
 sof-firmware libreoffice-fresh teamviewer yesplaymusic vlc mpv 
 
 pip install pynvim neovim spawn
-sudo npm install neovim
+
+sudo npm install -g neovim
 
 sudo pacman -S tlp
 sudo systemctl enable --now tlp
