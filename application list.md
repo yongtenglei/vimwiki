@@ -12,3 +12,4 @@ adobe-source-han-serif-cn-fonts wqy-zenhei
 packagekit-qt5 packagekit appstream-qt appstream          
  gwenview                                                    
 steam    
+rofi
