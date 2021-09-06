@@ -13,3 +13,6 @@ packagekit-qt5 packagekit appstream-qt appstream
  gwenview                                                    
 steam    
 rofi
+
+pip install pynvim neovim spawn
+sudo npm install neovim
